@@ -1,0 +1,22 @@
+# MATLAB specific files
+*.asv
+*.m~
+*.mlx
+
+# Project specific files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Backup files
+*~ 
+
+#images
+images/*
+
+# 無視しない画像
+!images/lena.png
+!images/profile.jpg
+
+
